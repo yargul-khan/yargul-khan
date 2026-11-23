@@ -1,4 +1,4 @@
-# Yargul Khan
+# Yar Gul
 
 **AI & Machine Learning Researcher**
 
@@ -16,4 +16,4 @@ Focusing on model architectures, empirical evaluations, and reproducible ML pipe
 ---
 
 ### Links
-[GitHub](https://github.com) · [LinkedIn](https://linkedin.com) · [Hugging Face](https://huggingface.co) · [Email](mailto:your.email@example.com)
+[GitHub](https://github.com/yargul-khan) · [LinkedIn](https://linkedin.com/in/yargul-khan) · [Instagram](https://instagram.com/yargul_khan) · [Email](mailto:yargul262@gmail.com)
