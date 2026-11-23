@@ -15,12 +15,5 @@ Focusing on model architectures, empirical evaluations, and reproducible ML pipe
 
 ---
 
-### Selected Work
-* **[Project Name](https://github.com)** — One-line technical summary of the problem solved, architecture used, and key metric/result.
-* **[Project Name](https://github.com)** — One-line technical summary of the problem solved, architecture used, and key metric/result.
-* **[Project Name](https://github.com)** — One-line technical summary of the problem solved, architecture used, and key metric/result.
-
----
-
 ### Links
 [GitHub](https://github.com) · [LinkedIn](https://linkedin.com) · [Hugging Face](https://huggingface.co) · [Email](mailto:your.email@example.com)
